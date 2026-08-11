@@ -4,6 +4,10 @@
 
 An interactive Excel dashboard built to analyze Superstore sales and profit performance and identify key business trends.
 
+## 📸 Dashboard Preview
+
+![Superstore Sales & Profit Dashboard](./dashboard_screenshot.png)
+
 ## 🛠️ Tools Used
 
 - Microsoft Excel
