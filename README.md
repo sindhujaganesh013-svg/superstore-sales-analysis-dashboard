@@ -23,7 +23,7 @@ An interactive Excel dashboard built to analyze Superstore sales and profit perf
 - Yearly Sales & Profit analysis
 - Category, Sub-Category & Regional analysis
 - Customer Segment & Ship Mode analysis
-- Top 10 Products by Sales
+- Top product by sales
 - Interactive Region, Category & Segment slicers
 - Key Business Insights
 
